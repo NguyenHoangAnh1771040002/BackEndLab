@@ -1,0 +1,14 @@
+C:\Coding\BackEnd\Lab1.2\Bai4\bin\Debug\net9.0\Bai4.exe
+C:\Coding\BackEnd\Lab1.2\Bai4\bin\Debug\net9.0\Bai4.deps.json
+C:\Coding\BackEnd\Lab1.2\Bai4\bin\Debug\net9.0\Bai4.runtimeconfig.json
+C:\Coding\BackEnd\Lab1.2\Bai4\bin\Debug\net9.0\Bai4.dll
+C:\Coding\BackEnd\Lab1.2\Bai4\bin\Debug\net9.0\Bai4.pdb
+C:\Coding\BackEnd\Lab1.2\Bai4\obj\Debug\net9.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\BackEnd\Lab1.2\Bai4\obj\Debug\net9.0\Bai4.AssemblyInfoInputs.cache
+C:\Coding\BackEnd\Lab1.2\Bai4\obj\Debug\net9.0\Bai4.AssemblyInfo.cs
+C:\Coding\BackEnd\Lab1.2\Bai4\obj\Debug\net9.0\Bai4.csproj.CoreCompileInputs.cache
+C:\Coding\BackEnd\Lab1.2\Bai4\obj\Debug\net9.0\Bai4.dll
+C:\Coding\BackEnd\Lab1.2\Bai4\obj\Debug\net9.0\refint\Bai4.dll
+C:\Coding\BackEnd\Lab1.2\Bai4\obj\Debug\net9.0\Bai4.pdb
+C:\Coding\BackEnd\Lab1.2\Bai4\obj\Debug\net9.0\Bai4.genruntimeconfig.cache
+C:\Coding\BackEnd\Lab1.2\Bai4\obj\Debug\net9.0\ref\Bai4.dll
